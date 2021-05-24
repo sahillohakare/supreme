@@ -1,0 +1,9 @@
+git init
+git add <f_name>
+git status
+git commit -m "msg"
+git rm --cached <f_name> (staging to unstage)
+git branch <branch_name> (create new branch)
+git checkout <branch> (switch b/w branch)
+git merge
+git pull
